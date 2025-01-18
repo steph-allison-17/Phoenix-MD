@@ -4,28 +4,28 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadAll = true;
+global.autoReadAll = false;
 global.antitags = false;
 
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
-global.groupevent = false;                //This is the new variable for controlling group event handling.
+global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //This is the new variable for controlling status seen.
-global.autoreadgc = true;
+global.autoreadgc = false;
 
 
 //
-global.prefa = ["/"];                                    //Default prefix here. you can change if you want.
+global.prefa = ["+"];                                    //Default prefix here. you can change if you want.
 
 
 //
-global.Owner = ["49491741711168", "4365022989060"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["49491741711168", "4365022989060"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["49491741711168", "4365022989060"];
-global.OwnerName = "Exiqon & Baron";
-global.BotName = "Phoenix-BOT";
+global.Owner = ["18632280160"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["18632280160"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["18632280160"];
+global.OwnerName = "Stephen Allison";
+global.BotName = "Phoenix";
 global.packname = "By Phoenix Bot";                             //Do not change.
 global.author = "ig: 6u.cg";                               //Do not change.
 global.BotSourceCode = "https://github.com/7ucg"; //Do not change.
@@ -41,7 +41,7 @@ global.openAiAPI = "sk-proj-Ihfu78OcDHN8CRWSybsNT3BlbkFJtR6xkgquGZAK8qvnoRj6";
 
 
 //
-global.location = "Deutschland, Unknown";
+global.location = "Africa, Lagos";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
