@@ -9,15 +9,15 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoTyping = true;                //auto tying by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //This is the new variable for controlling status seen.
-global.autoreadgc = false;
+global.autoreadgc = true;
 
 
 //
-global.prefa = ["+"];                                    //Default prefix here. you can change if you want.
+global.prefa = ["."];                                    //Default prefix here. you can change if you want.
 
 
 //
