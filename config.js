@@ -3,16 +3,16 @@ const chalk = require("chalk");
 
 
 //
-global.available = true;
+global.available = false;
 global.autoReadAll = false;
 global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = true;                //auto tying by default off.
+global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = true;
 
 
@@ -83,10 +83,10 @@ global.mess = {
   useradmin: '*Dieser Befehl kann nur von einem Admin verwendet werden.* !',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
   botowner: 'Nur meine *Owner* können diesen Befehl benutzen!',
-  grouponly: 'Dieser Befehl ist nur für *Gruppen* Verfügbar!',
+  grouponly: 'Groupchat only!',
   privateonly: 'Dieser Befehl ist nur für *Private Chats* Verfügbar!',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: '* ich arbeite daran...*',
+  waiting: '*Please wait...*',
   nolink: 'Please provide me *link*, Baka!',
   error: 'Error!',
   banned: 'You are *Banned* fron using commands!',
