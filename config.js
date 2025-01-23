@@ -21,9 +21,9 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["18632280160"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["18632280160"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["18632280160"];
+global.Owner = ["18632280160"];         //If you want singal number so global.Owner = ['18632280160'] Change into your number.
+global.OwnerNumber = ["18632280160"];   //If you want singal number so global.Owner = ['18632280160'] Change into your number.
+global.ownertag = ["𝐀𝐋𝐋𝐈𝐒𝐎𝐍"];
 global.OwnerName = "Stephen Allison";
 global.BotName = "Phoenix";
 global.packname = "By Phoenix Bot";                             //Do not change.
@@ -79,25 +79,25 @@ global.ntilink = []
 
 //
 global.mess = {
-  jobdone: '*Tadaaa✨!*',
-  useradmin: '*Dieser Befehl kann nur von einem Admin verwendet werden.* !',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Nur meine *Owner* können diesen Befehl benutzen!',
-  grouponly: 'Groupchat only!',
-  privateonly: 'Dieser Befehl ist nur für *Private Chats* Verfügbar!',
+  jobdone: '*Tadaaa✨🫠!*',
+  useradmin: '*Bitch, Admin only!* !',
+  botadmin: 'Sorry not sorry, i cant execute this command without being an *Admin* of this group.',
+  botowner: 'For my OWNER ONLY....Fuck off',
+  grouponly: 'Groupchat only! Fool!!',
+  privateonly: '*Private Chats ONLY, Dumbaas*',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: '*Please wait...*',
-  nolink: 'Please provide me *link*, Baka!',
+  waiting: '*Please wait... loading your shi😐🙂*',
+  nolink: 'Please provide me *link*, Bitch!',
   error: 'Error!',
-  banned: 'You are *Banned* fron using commands!',
+  banned: 'You are *Banned* from using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  nonsfw: 'Dont be a pervert Bitch! This is not a NSFW enabled group!'
 
 }
 
 global.limitawal = {
   premium: "Infinity",
-  free: 2,
+  free: 10,
   monayawal: 1000,
 };
 
