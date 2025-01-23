@@ -50,10 +50,10 @@ global.lolhuman = "Phoenix-BOT";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("./Assets/file6omo.jpg");
+global.Thumb = fs.readFileSync("./Assets/file2omo.jpg");
+global.Thumb1 = fs.readFileSync("./Assets/file-8.jpg");
+global.ErrorPic = fs.readFileSync("./Assets/IMG-20250108-WA0099.jpg");
 
 
 //
