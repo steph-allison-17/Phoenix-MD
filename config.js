@@ -10,10 +10,10 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
-global.autoreadgc = true;
+global.autoreadgc = false;
 
 
 //
@@ -80,13 +80,13 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: '*Tadaaa✨🫠!*',
-  useradmin: '*Bitch, Admin only!* !',
+  useradmin: '*Please Bitch, Admin only!* !',
   botadmin: 'Sorry not sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'For my OWNER ONLY....Fuck off',
+  botowner: 'For my OWNER ONLY....Fuck off🙂',
   grouponly: 'Groupchat only! Fool!!',
   privateonly: '*Private Chats ONLY, Dumbaas*',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: '*Please wait... loading your shi😐🙂*',
+  waiting: '*Please wait...*',
   nolink: 'Please provide me *link*, Bitch!',
   error: 'Error!',
   banned: 'You are *Banned* from using commands!',
@@ -97,13 +97,13 @@ global.mess = {
 
 global.limitawal = {
   premium: "Infinity",
-  free: 10,
+  free: 100,
   monayawal: 1000,
 };
 
 global.limitawal = {
   rakyat: "Infinity",
-  free: 100,
+  free: 1000,
 };
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
